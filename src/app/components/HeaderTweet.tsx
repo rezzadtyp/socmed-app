@@ -28,7 +28,7 @@ const HeaderTweet: React.FC = () => {
       <p className="my-1 text-right text-xs">{tweet.length}</p>
       <div className="flex justify-end">
         <Button size="icon">
-          <Send width={20} height={20} />
+          <Send width={20} height={20} className="text-white" />
         </Button>
       </div>
       <Separator className="my-4" />

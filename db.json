@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kim Chaewon",
+      "email": "chae@mail.com",
+      "password": "Admin123!",
+      "isVerify": true
+    },
+    {
+      "name": "szfkjwajek",
+      "email": "AJDkja@mail.com",
+      "password": "Admin123",
+      "isVerify": false,
+      "id": 2
+    },
+    {
+      "name": "sadkjjhdawsk",
+      "email": "asjdk@ajsad.asjdk",
+      "password": "Admin123",
+      "isVerify": false,
+      "id": 3
+    }
+  ]
+}
